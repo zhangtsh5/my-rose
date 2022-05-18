@@ -1,4 +1,4 @@
-![](https://files.mdnice.com/logo.svg)
+![](https://placekitten.com/300/300)
 
 请使用 **Chrome** 浏览器。
 
